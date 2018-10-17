@@ -189,3 +189,27 @@ h1{
       top: 160px;
       left: 60px;
     }
+
+    .mwCicrles{
+      width: 300px;
+      height: 700px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+
+      position: relative;
+      top: -600px;
+      left: 1120px;
+
+    }
+
+        .mwCicrles div{
+          height: 200px;
+          width: 200px;
+          background-color: #f7f7f7;
+          border-radius: 180px 180px;
+          border-style: solid;
+          border-width: 10px;
+          border-color: #3B728C;
+        }
