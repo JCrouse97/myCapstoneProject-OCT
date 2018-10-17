@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="272px" height="79px" viewBox="0 0 272 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Space-Capstone" transform="translate(-307.000000, -671.000000)">
+            <g id="arrow-down" transform="translate(309.000000, 673.000000)">
+                <path d="M261.160742,61.1086251 L268.715727,75.6141967 C269.481085,77.0836841 268.910276,78.8953842 267.440788,79.6607423 C267.012857,79.8836233 266.53748,80 266.054985,80 L250.945015,80 C249.288161,80 247.945015,78.6568542 247.945015,77 C247.945015,76.5175051 248.061392,76.0421283 248.284273,75.6141967 L255.839258,61.1086251 C256.604616,59.6391378 258.416316,59.0683281 259.885803,59.8336861 C260.431459,60.117882 260.876546,60.562969 261.160742,61.1086251 Z" id="Triangle-Copy-7" fill="#3B728C" transform="translate(258.500000, 68.000000) rotate(180.000000) translate(-258.500000, -68.000000) "></path>
+                <polyline id="Path-12" stroke="#3B728C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0 0 259 0 259 64.1733967"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

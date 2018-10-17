@@ -1,1 +1,179 @@
 /* MASTER CSS FILE */
+body{
+  font-family:"Roboto Slab", helvetica, sans-serif;
+  width: 98.9vw;
+  height: 1800px;
+  background: url('../stylesheets/media/Space Capstone Background.jpg');
+  background-size: 1430px 1800px;
+  background-repeat: no-repeat;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ***********************************Navbar******************************** */
+
+.containerBG{
+  height: 53px;
+  width: 98.99vw;
+  position: fixed;
+  transition: 0.2s;
+}
+
+    .containerBG:hover{
+      background-color: #f7f7f733;
+      transition: 0.3s;
+
+    }
+
+.headerContainer{
+  width: 500px;
+  height: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 0px 0px 218px;
+
+  position: relative;
+  left: 650px;
+  top: 25px;
+}
+
+    .headerContainer div{
+      color: #f7f7f7;
+      font-size: 1.1em;
+      font-weight: bold;
+      letter-spacing: 0.7px;
+      cursor: pointer;
+    }
+
+    .headerContainer div:hover{
+      color: #3B728C;
+      transition: 0.3s;
+    }
+
+#section1{
+  height: 910px;
+  width: 98.9vw
+}
+
+.logo{
+  width: 250px;
+  height: 125px;
+  background: url('../stylesheets/media/bd logo.png');
+  background-size: 250px 125px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: 0px;
+  left: 55px;
+}
+
+h1{
+  width: 700px;
+  font-size: 3em;
+  font-weight: bold;
+  line-height: 1.7;
+  color: #3B728C;
+
+  position: relative;
+  left: 35px;
+  top: 40px;
+}
+
+.arrowText{
+  width: 500px;
+  font-family: Futura;
+  line-height: 5;
+  font-size: 1.5em;
+  color: #222;
+
+  position: relative;
+  top: 95px;
+  left: 65px;
+}
+
+    .arrowText span{
+      text-decoration: underline;
+    }
+    .arrowText span:hover{
+      color: #3B728C;
+      transition: 0.2s;
+      cursor: pointer;
+    }
+
+    .arrowUp{
+      height: 300px;
+      width: 300px;
+      background: url('../stylesheets/media/arrowup.svg');
+      background-repeat: no-repeat;
+
+      position: relative;
+      bottom: 295px;
+      left: 290px;
+    }
+
+    .arrowRight{
+      height: 300px;
+      width: 400px;
+      background: url('../stylesheets/media/arrowright.svg');
+      background-repeat: no-repeat;
+
+      position: relative;
+      bottom: 395px;
+      left: 370px;
+    }
+
+    .arrowDown{
+      height: 300px;
+      width: 300px;
+      background: url('../stylesheets/media/arrowdown.svg');
+      background-repeat: no-repeat;
+
+      position: relative;
+      bottom: 565px;
+      left: 295px;
+    }
+
+    #section2{
+      height: 910px;
+      width: 98.9vw;
+      position: relative;
+      bottom: 50px;
+    }
+
+    .aboutMe{
+      font-size: 2em;
+      width: 200px;
+
+      position: relative;
+      left: 65px;
+      top: 34px;
+    }
+
+    .myWork{
+      font-size: 2em;
+      color: #f7f7f7;
+      width: 200px;
+
+      position: relative;
+      left: 800px;
+      top: 0px;
+    }
+
+    .imageCircle{
+      height: 280px;
+      width: 280px;
+      background-color: #f7f7f7;
+      border-radius: 180px 180px;
+      border-style: solid;
+      border-width: 10px;
+      border-color: #3B728C;
+
+      position: relative;
+      left: 60px;
+      top: 100px;
+
+    }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="23px" viewBox="0 0 343 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Space-Capstone" transform="translate(-307.000000, -561.000000)">
+            <g id="arrow-right" transform="translate(309.000000, 560.000000)">
+                <path d="M0,13.25 L324,13.25" id="Path-10" stroke="#D3D3D3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M334.660742,5.60862512 L342.215727,20.1141967 C342.981085,21.5836841 342.410276,23.3953842 340.940788,24.1607423 C340.512857,24.3836233 340.03748,24.5 339.554985,24.5 L324.445015,24.5 C322.788161,24.5 321.445015,23.1568542 321.445015,21.5 C321.445015,21.0175051 321.561392,20.5421283 321.784273,20.1141967 L329.339258,5.60862512 C330.104616,4.13913776 331.916316,3.56832812 333.385803,4.33368613 C333.931459,4.61788204 334.376546,5.06296898 334.660742,5.60862512 Z" id="Triangle-Copy-5" fill="#D3D3D3" transform="translate(332.000000, 12.500000) rotate(90.000000) translate(-332.000000, -12.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
