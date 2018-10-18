@@ -189,7 +189,7 @@ h1{
       line-height: 1.5;
       font-size: 1.1em;
       font-weight: 100;
-      color: #222;
+      color: #333;
 
       position: relative;
       top: 160px;
@@ -309,16 +309,49 @@ h1{
           left: 1170px;
         }
 
-        .mwDribbleIcon:hover{
-          background: url('../stylesheets/media/poster-square-noBG.png');
-          background-size: 170px 170px;
+            .mwDribbleIcon:hover{
+              background: url('../stylesheets/media/poster-square-noBG.png');
+              background-size: 170px 170px;
+              background-repeat: no-repeat;
+              background-position: center;
+
+              transition: 0.5s;
+            }
+
+        .fontIcon{
+          height: 200px;
+          width: 200px;
+          background: url('../stylesheets/media/FontPreview.png');
           background-repeat: no-repeat;
           background-position: center;
 
           transition: 0.5s;
+
+          position: relative;
+          top: -1475px;
+          left: 1170px;
         }
 
+            .fontIcon:hover{
+              background: url('../stylesheets/media/MCP-Icon.png');
+              background-size: 200px 200px;
+              background-repeat: no-repeat;
+              background-position: center;
 
-    #dribbleLink{
-      position: relative;
-    }
+              transition: 0.5s;
+            }
+
+            .wwwIcon{
+              height: 200px;
+              width: 200px;
+              background: url('../stylesheets/media/wwwIcon.png');
+              background-size: 200px 200px;
+              background-repeat: no-repeat;
+              background-position: center;
+
+              transition: 0.5s;
+
+              position: relative;
+              top: -1430px;
+              left: 1170px;
+            }
