@@ -74,13 +74,13 @@ a{
 
 h1{
   width: 700px;
-  font-size: 3em;
+  font-size: 2.7em;
   font-weight: bold;
   line-height: 1.7;
   color: #3B728C;
 
   position: relative;
-  left: 35px;
+  left: 45px;
   top: 40px;
 }
 
@@ -152,7 +152,7 @@ h1{
       width: 200px;
 
       position: relative;
-      left: 240px;
+      left: 235px;
       top: 44px;
     }
 
@@ -250,3 +250,39 @@ h1{
       top: -755px;
       left: 970px;
     }
+
+        #dribbleDesc{
+          width: 300px;
+          font-family: futura;
+          font-size: 1.1em;
+          line-height: 1.5;
+          text-align: right;
+
+          position: relative;
+          top: -1230px;
+          left: 838px;
+        }
+
+        #fontDesc{
+          width: 350px;
+          font-family: futura;
+          font-size: 1.1em;
+          line-height: 1.5;
+          text-align: right;
+
+          position: relative;
+          top: -1037px;
+          left: 786px;
+        }
+
+        #webDesc{
+          width: 350px;
+          font-family: futura;
+          font-size: 1.1em;
+          line-height: 1.5;
+          text-align: right;
+
+          position: relative;
+          top: -845px;
+          left: 789px;
+        }
