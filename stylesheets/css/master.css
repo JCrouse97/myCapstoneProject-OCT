@@ -73,9 +73,8 @@ a{
 }
 
 h1{
-  width: 700px;
+width: 700px;
   font-size: 2.7em;
-  font-weight: 500;
   line-height: 1.7;
   color: #3B728C;
 
@@ -237,6 +236,7 @@ h1{
       font-size: 2em;
       font-weight: 400;
       color: #f7f7f7;
+      cursor: pointer;
 
       position: relative;
       top: -968px;
@@ -248,6 +248,7 @@ h1{
       font-size: 2em;
       font-weight: 400;
       color: #f7f7f7;
+      cursor: pointer;
 
       position: relative;
       top: -755px;
@@ -295,6 +296,14 @@ h1{
 
         /* ***********************My Work Image Icons********************** */
 
+        #mwDribbleiconLink{
+          width: 250px;
+          position: absolute;
+          top: 145px;
+          left: 1171px;
+        }
+
+
         .mwDribbleIcon{
           height: 200px;
           width: 200px;
@@ -303,10 +312,6 @@ h1{
           background-position: center;
 
           transition: 0.5s;
-
-          position: relative;
-          top: -1510px;
-          left: 1170px;
         }
 
             .mwDribbleIcon:hover{
@@ -324,11 +329,12 @@ h1{
           background: url('../stylesheets/media/FontPreview.png');
           background-repeat: no-repeat;
           background-position: center;
+          cursor: pointer;
 
           transition: 0.5s;
 
           position: relative;
-          top: -1475px;
+          top: -1275px;
           left: 1170px;
         }
 
@@ -348,10 +354,11 @@ h1{
               background-size: 200px 200px;
               background-repeat: no-repeat;
               background-position: center;
+              cursor: pointer;
 
               transition: 0.5s;
 
               position: relative;
-              top: -1430px;
+              top: -1230px;
               left: 1170px;
             }
