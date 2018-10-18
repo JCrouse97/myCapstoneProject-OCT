@@ -343,6 +343,7 @@ width: 700px;
               background-size: 200px 200px;
               background-repeat: no-repeat;
               background-position: center;
+              cursor: pointer;
 
               transition: 0.5s;
             }
