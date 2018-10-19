@@ -182,7 +182,9 @@ h1{
     #imageCircle{
       height: 280px;
       width: 280px;
-      background-color: #f7f7f7;
+      background: url('../stylesheets/media/photo1.jpg');
+      background-size: 280px 280px;
+      background-repeat: no-repeat;
       border-radius: 180px 180px;
       border-style: solid;
       border-width: 10px;
@@ -202,9 +204,10 @@ h1{
       color: #333;
 
       position: relative;
-      top: 160px;
+      top: 145px;
       left: 160px;
     }
+
 
     .mwCicrles{
       width: 300px;
@@ -310,7 +313,7 @@ h1{
         #mwDribbleiconLink{
           width: 250px;
           position: absolute;
-          top: 145px;
+          top: 144px;
           left: 1171px;
         }
 
@@ -359,18 +362,33 @@ h1{
               transition: 0.5s;
             }
 
-            .wwwIcon{
-              height: 200px;
-              width: 200px;
-              background: url('../stylesheets/media/wwwIcon.png');
-              background-size: 200px 200px;
-              background-repeat: no-repeat;
-              background-position: center;
-              cursor: pointer;
+      .wwwIcon{
+        height: 200px;
+        width: 200px;
+        background: url('../stylesheets/media/wwwIcon.png');
+        background-size: 200px 200px;
+        background-repeat: no-repeat;
+        background-position: center;
+        cursor: pointer;
 
-              transition: 0.5s;
+        transition: 0.5s;
 
-              position: relative;
-              top: -1230px;
-              left: 1170px;
-            }
+        position: relative;
+        top: -1230px;
+        left: 1170px;
+      }
+
+  .socialIcons{
+    height: 65px;
+    width: 260px;
+    background: url('../stylesheets/media/socialIcons.png');
+    background-repeat: no-repeat;
+    background-size: 260px 65px;
+    background-position: center;
+    cursor: pointer;
+
+    position: relative;
+    top: -1200px;
+    left: 1115px;
+
+  }
