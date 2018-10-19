@@ -208,7 +208,7 @@ h1{
       color: #333;
 
       position: relative;
-      top: 145px;
+      top: 180px;
       left: 160px;
     }
 
@@ -396,5 +396,15 @@ h1{
     position: relative;
     top: -1200px;
     left: 1115px;
+
+  }
+
+  #welcomeH2{
+    width: 200px;
+    font-size: 2em;
+    color: #3B728C;
+    position: relative;
+    top: -1620px;
+    left: 160px;
 
   }
