@@ -222,7 +222,7 @@ h1{
       align-items: center;
 
       position: relative;
-      top: -568px;
+      top: -595px;
       left: 1120px;
 
     }
@@ -245,8 +245,8 @@ h1{
       color: #f7f7f7;
 
       position: relative;
-      top: -1178px;
-      left: 900px;
+      top: -1198px;
+      left: 920px;
     }
 
     #myFonts{
@@ -257,8 +257,8 @@ h1{
       cursor: pointer;
 
       position: relative;
-      top: -968px;
-      left: 995px;
+      top: -988px;
+      left: 1005px;
     }
 
     #webBuilds{
@@ -269,8 +269,8 @@ h1{
       cursor: pointer;
 
       position: relative;
-      top: -755px;
-      left: 970px;
+      top: -777px;
+      left: 990px;
     }
 
         #dribbleDesc{
@@ -282,7 +282,7 @@ h1{
           color: #222;
 
           position: relative;
-          top: -1230px;
+          top: -1250px;
           left: 838px;
         }
 
@@ -295,7 +295,7 @@ h1{
           color: #222;
 
           position: relative;
-          top: -1037px;
+          top: -1057px;
           left: 786px;
         }
 
@@ -308,7 +308,7 @@ h1{
           color: #222;
 
           position: relative;
-          top: -845px;
+          top: -865px;
           left: 789px;
         }
 
@@ -317,7 +317,7 @@ h1{
         #mwDribbleiconLink{
           width: 250px;
           position: absolute;
-          top: 144px;
+          top: 145px;
           left: 1171px;
         }
 
@@ -354,7 +354,7 @@ h1{
           transition: 0.5s;
 
           position: relative;
-          top: -1275px;
+          top: -1298px;
           left: 1170px;
         }
 
@@ -380,7 +380,7 @@ h1{
         transition: 0.5s;
 
         position: relative;
-        top: -1230px;
+        top: -1252px;
         left: 1170px;
       }
 
@@ -394,7 +394,7 @@ h1{
     cursor: pointer;
 
     position: relative;
-    top: -1200px;
+    top: -1225px;
     left: 1115px;
 
   }
@@ -404,7 +404,7 @@ h1{
     font-size: 2em;
     color: #3B728C;
     position: relative;
-    top: -1620px;
+    top: -1630px;
     left: 160px;
 
   }
