@@ -1,4 +1,15 @@
 /* MASTER CSS FILE */
+
+@font-face{
+  font-family: Casslab;
+  src: url('../stylesheets/type/Casslab-Regular.woff2') format('woff2'),
+       url('../stylesheets/type/Casslab-Regular.woff') format('woff'),
+       url('../stylesheets/type/Casslab-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 body{
   font-family: Casslab, helvetica, sans-serif;
   width: 98.9vw;
