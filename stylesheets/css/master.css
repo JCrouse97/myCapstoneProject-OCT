@@ -322,6 +322,7 @@ h1{
           height: 200px;
           width: 200px;
           background: url('../stylesheets/media/dribbble logo copy.png');
+          background-size: 200px 200px;
           background-repeat: no-repeat;
           background-position: center;
 
@@ -341,6 +342,7 @@ h1{
           height: 200px;
           width: 200px;
           background: url('../stylesheets/media/FontPreview.png');
+          background-size: 200px 200px;
           background-repeat: no-repeat;
           background-position: center;
           cursor: pointer;
