@@ -87,12 +87,16 @@ h1{
   width: 700px;
   font-size: 2.8em;
   line-height: 1.7;
-  color: #3B728C;
+  color: #000;
 
   position: relative;
   left: 70px;
   top: 40px;
 }
+
+    #designtxt{
+      color: #3B728C;
+    }
 
 .arrowText{
   width: 500px;

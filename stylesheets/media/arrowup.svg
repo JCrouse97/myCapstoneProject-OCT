@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="63px" height="93px" viewBox="0 0 63 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="90px" height="92px" viewBox="0 0 90 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow up</title>
+    <title>arrowup</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Space-Capstone" transform="translate(-307.000000, -382.000000)">
-            <g id="arrow-up" transform="translate(309.000000, 379.000000)">
-                <path d="M52.1607423,5.10862512 L59.7157275,19.6141967 C60.4810855,21.0836841 59.9102758,22.8953842 58.4407885,23.6607423 C58.0128569,23.8836233 57.5374801,24 57.0549852,24 L41.9450148,24 C40.2881605,24 38.9450148,22.6568542 38.9450148,21 C38.9450148,20.5175051 39.0613915,20.0421283 39.2842725,19.6141967 L46.8392577,5.10862512 C47.6046158,3.63913776 49.4163159,3.06832812 50.8858033,3.83368613 C51.4314594,4.11788204 51.8765463,4.56296898 52.1607423,5.10862512 Z" id="Triangle-Copy-6" fill="#D3D3D3"></path>
-                <polyline id="Path-11" stroke="#D3D3D3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0 94 49 94 49 17"></polyline>
-            </g>
+        <g id="arrowup" transform="translate(2.000000, 0.000000)">
+            <path d="M79.7725207,1.65370035 L87.6458058,16.5085818 C88.4434092,18.0134561 87.8485507,19.8687839 86.3171522,20.6525726 C85.8711914,20.8808208 85.3757864,21 84.8729635,21 L69.1263933,21 C67.3997339,21 66,19.6245098 66,17.9277568 C66,17.4336429 66.1212798,16.9468185 66.353551,16.5085818 L74.2268361,1.65370035 C75.0244396,0.148826143 76.9124686,-0.435729212 78.4438671,0.348059448 C79.0125123,0.639099104 79.4763512,1.09490422 79.7725207,1.65370035 Z" id="Triangle-Copy-6" fill="#D3D3D3"></path>
+            <polyline id="Path-11" stroke="#D3D3D3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0 90 77 90 77 13"></polyline>
         </g>
     </g>
 </svg>
