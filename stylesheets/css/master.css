@@ -56,7 +56,7 @@ a{
 
     .headerContainer div{
       color: #f7f7f7;
-      font-size: 1.1em;
+      font-size: 1.2em;
       font-weight: 400;
       letter-spacing: 0.7px;
       cursor: pointer;
@@ -85,12 +85,12 @@ a{
 
 h1{
   width: 700px;
-  font-size: 2.75em;
+  font-size: 2.8em;
   line-height: 1.7;
   color: #3B728C;
 
   position: relative;
-  left: 45px;
+  left: 70px;
   top: 40px;
 }
 
